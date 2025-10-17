@@ -1,2 +1,4 @@
-# Python-Assignment
-In this repo my all Tudedude Assignments i am upload here.
+Python all assignments in this :
+Assignment Folder --->> Commit --->> Push
+
+Star my repo ⭐
