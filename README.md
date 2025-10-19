@@ -1,5 +1,5 @@
-Python all assignments in this :
-Assignment Folder --->> Commit --->> Push
+Python all Modules in this :
+Module Folder --->> Commit --->> Push
 
 Star my repo  https://github.com/Chidatma/Python-Assignment.git ⭐
 
