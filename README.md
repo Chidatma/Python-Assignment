@@ -1,7 +1,7 @@
 Python all Modules in this :
 Module Folder --->> Commit --->> Push
 
-Star my repo  https://github.com/Chidatma/Python-Assignment.git ⭐
+Star my repo  https://github.com/Chidatma/Python-Assignment/tree/master ⭐
 
 # 🐍 Python Beginner Tasks: Combined Program
 
